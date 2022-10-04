@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/favicons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "thewebsite"
+	}
+}
